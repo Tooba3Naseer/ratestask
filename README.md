@@ -29,7 +29,7 @@
    `python manage.py createsuperuser`
    After creating admin, you can login into the admin portal using that credentials. On admin portal, you can see the data in an interactive view.
 
-6. If you have made any changes in requirements.txt or any docker configuration files. You need to create the images again by using the command that is specified in point 5.
+6. If you have made any changes in requirements.txt or any docker configuration files. You need to create the images again by using the command that is specified in point 2.
 
 ### API Endpoint
 
@@ -46,4 +46,6 @@ You can call this endpoint from postman
 1. Whenever you build the container for the first time using `sudo docker-compose up --build` command. It will automatically create postgres database along with web and nginx container. It will automatically run the database schema migration files and dump the data from json file into the database.
 
 2. I used same data that you provided me. In Django, we generally dump the data from json file. So for this purpose I created json using this command, after running the container from the code that you provided me:
-   `COPY (SELECT array_to_json(array_agg(row_to_json(t))) FROM (SELECT * FROM ports) t) to '/home/tintash/Desktop/result.json'`
+   `COPY (SELECT array_to_json(array_agg(row_to_json(t))) FROM (SELECT * FROM ports) t) to '/home/tooba/Desktop/result.json'`
+
+3. Moreover, I attached the volumes so that the db data remains persist.
