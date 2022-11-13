@@ -1,0 +1,717 @@
+[
+    {
+        "code": "CNCWN",
+        "name": "Chiwan",
+        "parent_slug_id": "china_south_main"
+    },
+    {
+        "code": "IESNN",
+        "name": "Shannon",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "FRLVE",
+        "name": "Le Verdon-sur-Mer",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "NOOSL",
+        "name": "Oslo",
+        "parent_slug_id": "norway_south_east"
+    },
+    {
+        "code": "GBPME",
+        "name": "Portsmouth",
+        "parent_slug_id": "uk_sub"
+    },
+    {
+        "code": "NOSVG",
+        "name": "Stavanger",
+        "parent_slug_id": "norway_south_west"
+    },
+    {
+        "code": "FIHEL",
+        "name": "Helsingfors (Helsinki)",
+        "parent_slug_id": "finland_main"
+    },
+    {
+        "code": "NOMAY",
+        "name": "Måløy",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "code": "FRLIO",
+        "name": "Lyon",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "SEHAD",
+        "name": "Halmstad",
+        "parent_slug_id": "kattegat"
+    },
+    {
+        "code": "GBTIL",
+        "name": "Tilbury",
+        "parent_slug_id": "uk_sub"
+    },
+    {
+        "code": "DKCPH",
+        "name": "Copenhagen (København)",
+        "parent_slug_id": "kattegat"
+    },
+    {
+        "code": "NOFRK",
+        "name": "Fredrikstad",
+        "parent_slug_id": "norway_south_east"
+    },
+    {
+        "code": "CNYAT",
+        "name": "Yantai",
+        "parent_slug_id": "china_east_main"
+    },
+    {
+        "code": "CNSNZ",
+        "name": "Shenzhen",
+        "parent_slug_id": "china_south_main"
+    },
+    {
+        "code": "NOSKE",
+        "name": "Skien",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "code": "DEWVN",
+        "name": "Wilhelmshaven",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "NOKSU",
+        "name": "Kristiansund",
+        "parent_slug_id": "norway_north_west"
+    },
+    {
+        "code": "SEMMA",
+        "name": "Malmö",
+        "parent_slug_id": "kattegat"
+    },
+    {
+        "code": "FIRAA",
+        "name": "Brahestad (Raahe)",
+        "parent_slug_id": "baltic"
+    },
+    {
+        "code": "FRDKK",
+        "name": "Dunkerque",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "GBLON",
+        "name": "London",
+        "parent_slug_id": "uk_sub"
+    },
+    {
+        "code": "NOSVE",
+        "name": "Svelgen",
+        "parent_slug_id": "norway_north_west"
+    },
+    {
+        "code": "FRBAS",
+        "name": "Bassens",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "NLMOE",
+        "name": "Moerdijk",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "IEDUB",
+        "name": "Dublin",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "FRDPE",
+        "name": "Dieppe",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "FIKOK",
+        "name": "Karleby (Kokkola)",
+        "parent_slug_id": "baltic"
+    },
+    {
+        "code": "NLRTM",
+        "name": "Rotterdam",
+        "parent_slug_id": "north_europe_main"
+    },
+    {
+        "code": "GBLTP",
+        "name": "London Thamesport",
+        "parent_slug_id": "uk_sub"
+    },
+    {
+        "code": "BEZEE",
+        "name": "Zeebrugge",
+        "parent_slug_id": "north_europe_main"
+    },
+    {
+        "code": "FIOUL",
+        "name": "Uleåborg (Oulu)",
+        "parent_slug_id": "baltic"
+    },
+    {
+        "code": "NOFUS",
+        "name": "Fusa",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "code": "FRNEG",
+        "name": "Bougenais",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "DEBRE",
+        "name": "Bremen",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "SENRK",
+        "name": "Norrköping",
+        "parent_slug_id": "stockholm_area"
+    },
+    {
+        "code": "RUKDT",
+        "name": "Kronshtadt",
+        "parent_slug_id": "baltic"
+    },
+    {
+        "code": "FRLRH",
+        "name": "La Rochelle",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "FIMTY",
+        "name": "Mantyluoto",
+        "parent_slug_id": "baltic"
+    },
+    {
+        "code": "NOIKR",
+        "name": "Ikornnes",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "code": "DKFRC",
+        "name": "Fredericia",
+        "parent_slug_id": "kattegat"
+    },
+    {
+        "code": "NOHVI",
+        "name": "Håvik",
+        "parent_slug_id": "norway_south_west"
+    },
+    {
+        "code": "FRMTX",
+        "name": "Montoir-de-Bretagne",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "FIKTK",
+        "name": "Kotka",
+        "parent_slug_id": "finland_main"
+    },
+    {
+        "code": "EEMUG",
+        "name": "Muuga",
+        "parent_slug_id": "baltic"
+    },
+    {
+        "code": "PLSZZ",
+        "name": "Szczecin",
+        "parent_slug_id": "baltic"
+    },
+    {
+        "code": "NOUME",
+        "name": "Straume Industriområde",
+        "parent_slug_id": "norway_south_west"
+    },
+    {
+        "code": "CNSHK",
+        "name": "Shekou",
+        "parent_slug_id": "china_south_main"
+    },
+    {
+        "code": "GBTEE",
+        "name": "Teesport",
+        "parent_slug_id": "uk_sub"
+    },
+    {
+        "code": "FRBOD",
+        "name": "Bordeaux",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "FRLEH",
+        "name": "Le Havre",
+        "parent_slug_id": "north_europe_main"
+    },
+    {
+        "code": "HKHKG",
+        "name": "Hong Kong",
+        "parent_slug_id": "china_south_main"
+    },
+    {
+        "code": "SESOE",
+        "name": "Södertälje",
+        "parent_slug_id": "stockholm_area"
+    },
+    {
+        "code": "NOHAL",
+        "name": "Halden",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "code": "ESGIJ",
+        "name": "Gijón",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "NOBVG",
+        "name": "Berlevåg",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "code": "IEORK",
+        "name": "Cork",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "DEBRV",
+        "name": "Bremerhaven",
+        "parent_slug_id": "north_europe_main"
+    },
+    {
+        "code": "ESZAZ",
+        "name": "Zaragoza",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "SEWAL",
+        "name": "Wallhamn",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "code": "CNNBO",
+        "name": "Ningbo",
+        "parent_slug_id": "china_east_main"
+    },
+    {
+        "code": "NOFRO",
+        "name": "Florø",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "code": "CNDAL",
+        "name": "Dalian",
+        "parent_slug_id": "china_north_main"
+    },
+    {
+        "code": "GBMNC",
+        "name": "Manchester",
+        "parent_slug_id": "uk_sub"
+    },
+    {
+        "code": "PLGDY",
+        "name": "Gdynia",
+        "parent_slug_id": "poland_main"
+    },
+    {
+        "code": "CNSGH",
+        "name": "Shanghai",
+        "parent_slug_id": "china_east_main"
+    },
+    {
+        "code": "FITKU",
+        "name": "Åbo (Turku)",
+        "parent_slug_id": "baltic"
+    },
+    {
+        "code": "GBHUL",
+        "name": "Hull",
+        "parent_slug_id": "uk_sub"
+    },
+    {
+        "code": "ESVGO",
+        "name": "Vigo",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "SEHEL",
+        "name": "Helsingborg",
+        "parent_slug_id": "kattegat"
+    },
+    {
+        "code": "NOMOL",
+        "name": "Molde",
+        "parent_slug_id": "norway_north_west"
+    },
+    {
+        "code": "NOTON",
+        "name": "Tønsberg",
+        "parent_slug_id": "norway_south_east"
+    },
+    {
+        "code": "CNHDG",
+        "name": "Huadu Pt",
+        "parent_slug_id": "china_south_main"
+    },
+    {
+        "code": "BEANR",
+        "name": "Antwerpen",
+        "parent_slug_id": "north_europe_main"
+    },
+    {
+        "code": "FIRAU",
+        "name": "Rauma (Raumo)",
+        "parent_slug_id": "finland_main"
+    },
+    {
+        "code": "PLGDN",
+        "name": "Gdansk",
+        "parent_slug_id": "poland_main"
+    },
+    {
+        "code": "NODRM",
+        "name": "Drammen",
+        "parent_slug_id": "norway_south_east"
+    },
+    {
+        "code": "NOSAS",
+        "name": "Sandnes",
+        "parent_slug_id": "norway_south_west"
+    },
+    {
+        "code": "NOKRS",
+        "name": "Kristiansand",
+        "parent_slug_id": "norway_south_east"
+    },
+    {
+        "code": "NOSUN",
+        "name": "Sunndalsøra",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "code": "GBBEL",
+        "name": "Belfast",
+        "parent_slug_id": "uk_sub"
+    },
+    {
+        "code": "DKAAR",
+        "name": "Århus",
+        "parent_slug_id": "kattegat"
+    },
+    {
+        "code": "FRURO",
+        "name": "Rouen",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "GBLGP",
+        "name": "London Gateway Port",
+        "parent_slug_id": "uk_sub"
+    },
+    {
+        "code": "SEAHU",
+        "name": "Åhus",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "code": "NOBVK",
+        "name": "Brevik",
+        "parent_slug_id": "norway_south_east"
+    },
+    {
+        "code": "FRANT",
+        "name": "Antibes",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "RUARH",
+        "name": "Arkhangelsk",
+        "parent_slug_id": "russia_north_west"
+    },
+    {
+        "code": "NOTOS",
+        "name": "Tromsø",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "code": "SEGOT",
+        "name": "Gothenburg (Göteborg)",
+        "parent_slug_id": "kattegat"
+    },
+    {
+        "code": "FIIMA",
+        "name": "Imatra",
+        "parent_slug_id": "baltic"
+    },
+    {
+        "code": "FIKEM",
+        "name": "Kemi/Torneå (Kemi/Tornio)",
+        "parent_slug_id": "baltic"
+    },
+    {
+        "code": "GBGRG",
+        "name": "Grangemouth",
+        "parent_slug_id": "uk_sub"
+    },
+    {
+        "code": "EETLL",
+        "name": "Tallinn",
+        "parent_slug_id": "baltic_main"
+    },
+    {
+        "code": "FIHMN",
+        "name": "Fredrikshamn (Hamina)",
+        "parent_slug_id": "baltic"
+    },
+    {
+        "code": "RULED",
+        "name": "Saint Petersburg (ex Leningrad)",
+        "parent_slug_id": "baltic"
+    },
+    {
+        "code": "GBLIV",
+        "name": "Liverpool",
+        "parent_slug_id": "uk_sub"
+    },
+    {
+        "code": "CNGGZ",
+        "name": "Guangzhou",
+        "parent_slug_id": "china_south_main"
+    },
+    {
+        "code": "NOTRD",
+        "name": "Trondheim",
+        "parent_slug_id": "norway_north_west"
+    },
+    {
+        "code": "FRIRK",
+        "name": "Dunkirk",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "FRNTE",
+        "name": "Nantes",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "CNQIN",
+        "name": "Qingdao",
+        "parent_slug_id": "china_east_main"
+    },
+    {
+        "code": "RULUG",
+        "name": "Lugovoye",
+        "parent_slug_id": "baltic"
+    },
+    {
+        "code": "GBBRS",
+        "name": "Bristol",
+        "parent_slug_id": "uk_sub"
+    },
+    {
+        "code": "GBGOO",
+        "name": "Goole",
+        "parent_slug_id": "uk_sub"
+    },
+    {
+        "code": "CNLYG",
+        "name": "Lianyungang",
+        "parent_slug_id": "china_east_main"
+    },
+    {
+        "code": "GBTHP",
+        "name": "Thamesport",
+        "parent_slug_id": "uk_sub"
+    },
+    {
+        "code": "NOHAU",
+        "name": "Haugesund",
+        "parent_slug_id": "norway_south_west"
+    },
+    {
+        "code": "LVRIX",
+        "name": "Riga",
+        "parent_slug_id": "baltic_main"
+    },
+    {
+        "code": "DKAAL",
+        "name": "Aalborg",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "code": "GBFXT",
+        "name": "Felixstowe",
+        "parent_slug_id": "uk_main"
+    },
+    {
+        "code": "NOMSS",
+        "name": "Moss",
+        "parent_slug_id": "norway_south_east"
+    },
+    {
+        "code": "NLAMS",
+        "name": "Amsterdam",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "FOTHO",
+        "name": "Thorshavn",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "code": "NOHYR",
+        "name": "Høyanger",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "code": "NOTAE",
+        "name": "Tananger",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "code": "CNTXG",
+        "name": "Xingang (Tianjin New Pt)",
+        "parent_slug_id": "china_north_main"
+    },
+    {
+        "code": "SEGVX",
+        "name": "Gävle",
+        "parent_slug_id": "stockholm_area"
+    },
+    {
+        "code": "GBSOU",
+        "name": "Southampton",
+        "parent_slug_id": "uk_main"
+    },
+    {
+        "code": "CNXAM",
+        "name": "Xiamen",
+        "parent_slug_id": "china_east_main"
+    },
+    {
+        "code": "RUULU",
+        "name": "Ust'-Luga",
+        "parent_slug_id": "baltic"
+    },
+    {
+        "code": "NOBGO",
+        "name": "Bergen",
+        "parent_slug_id": "norway_south_west"
+    },
+    {
+        "code": "ESMPG",
+        "name": "Marin, Pontevedra",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "DEHAM",
+        "name": "Hamburg",
+        "parent_slug_id": "north_europe_main"
+    },
+    {
+        "code": "SEOXE",
+        "name": "Oxelösund",
+        "parent_slug_id": "stockholm_area"
+    },
+    {
+        "code": "NOLAR",
+        "name": "Larvik",
+        "parent_slug_id": "norway_south_east"
+    },
+    {
+        "code": "CNYTN",
+        "name": "Yantian",
+        "parent_slug_id": "china_south_main"
+    },
+    {
+        "code": "ISREY",
+        "name": "Reykjavík",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "code": "ESBIO",
+        "name": "Bilbao",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "ISGRT",
+        "name": "Grundartangi",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "code": "NOGJM",
+        "name": "Gjemnes",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "code": "FRBES",
+        "name": "Brest",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "NOORK",
+        "name": "Orkanger",
+        "parent_slug_id": "norway_north_west"
+    },
+    {
+        "code": "NOAES",
+        "name": "Ålesund",
+        "parent_slug_id": "norway_north_west"
+    },
+    {
+        "code": "SESTO",
+        "name": "Stockholm",
+        "parent_slug_id": "stockholm_area"
+    },
+    {
+        "code": "GBIMM",
+        "name": "Immingham",
+        "parent_slug_id": "uk_sub"
+    },
+    {
+        "code": "LTKLJ",
+        "name": "Klaipeda",
+        "parent_slug_id": "baltic_main"
+    },
+    {
+        "code": "RUKGD",
+        "name": "Kaliningrad",
+        "parent_slug_id": "baltic"
+    },
+    {
+        "code": "GBGRK",
+        "name": "Greenock",
+        "parent_slug_id": "uk_sub"
+    },
+    {
+        "code": "SEPIT",
+        "name": "Piteå",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "code": "ESVIT",
+        "name": "Vitoria-Gasteiz",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "code": "DKEBJ",
+        "name": "Esbjerg",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "code": "GBSSH",
+        "name": "South Shields",
+        "parent_slug_id": "uk_sub"
+    }
+]

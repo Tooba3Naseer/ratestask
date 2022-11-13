@@ -1,0 +1,102 @@
+[
+    {
+        "slug": "china_main",
+        "name": "China Main",
+        "parent_slug_id": null
+    },
+    {
+        "slug": "northern_europe",
+        "name": "Northern Europe",
+        "parent_slug_id": null
+    },
+    {
+        "slug": "scandinavia",
+        "name": "Scandinavia",
+        "parent_slug_id": "northern_europe"
+    },
+    {
+        "slug": "north_europe_sub",
+        "name": "North Europe Sub",
+        "parent_slug_id": "northern_europe"
+    },
+    {
+        "slug": "baltic",
+        "name": "Baltic",
+        "parent_slug_id": "northern_europe"
+    },
+    {
+        "slug": "north_europe_main",
+        "name": "North Europe Main",
+        "parent_slug_id": "northern_europe"
+    },
+    {
+        "slug": "stockholm_area",
+        "name": "Stockholm Area",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "slug": "uk_sub",
+        "name": "UK Sub",
+        "parent_slug_id": "north_europe_sub"
+    },
+    {
+        "slug": "finland_main",
+        "name": "Finland Main",
+        "parent_slug_id": "baltic"
+    },
+    {
+        "slug": "baltic_main",
+        "name": "Baltic Main",
+        "parent_slug_id": "baltic"
+    },
+    {
+        "slug": "poland_main",
+        "name": "Poland Main",
+        "parent_slug_id": "baltic"
+    },
+    {
+        "slug": "kattegat",
+        "name": "Kattegat",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "slug": "norway_north_west",
+        "name": "Norway North West",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "slug": "norway_south_east",
+        "name": "Norway South East",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "slug": "norway_south_west",
+        "name": "Norway South West",
+        "parent_slug_id": "scandinavia"
+    },
+    {
+        "slug": "uk_main",
+        "name": "UK Main",
+        "parent_slug_id": "north_europe_main"
+    },
+    {
+        "slug": "russia_north_west",
+        "name": "Russia North West",
+        "parent_slug_id": "northern_europe"
+    },
+    {
+        "slug": "china_east_main",
+        "name": "China East Main",
+        "parent_slug_id": "china_main"
+    },
+    {
+        "slug": "china_south_main",
+        "name": "China South Main",
+        "parent_slug_id": "china_main"
+    },
+    {
+        "slug": "china_north_main",
+        "name": "China North Main",
+        "parent_slug_id": "china_main"
+    }
+]

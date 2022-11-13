@@ -1,0 +1,34 @@
+version: '3'
+
+services:
+    ratestask-web:
+        build: .
+        container_name: ratestask-web
+        command: gunicorn ratestask.wsgi:application --bind 0.0.0.0:8000 --workers=4
+        volumes:
+            - .:/ratestask
+            - static_volume:/ratestask/staticfiles
+        depends_on:
+            - db
+    db:
+        container_name: ratestask-db
+        image: postgres:latest
+        volumes:
+            - postgres_data:/var/lib/postgresql/data/
+        environment:
+            - POSTGRES_USER=postgres
+            - POSTGRES_PASSWORD=ratestask
+            - POSTGRES_DB=ratestask-db
+    nginx:
+        container_name: ratestask-nginx
+        build: ./nginx
+        volumes:
+            - static_volume:/ratestask/staticfiles
+        ports:
+            - 1337:80
+        depends_on:
+            - ratestask-web
+
+volumes:
+    postgres_data:
+    static_volume:
