@@ -92,13 +92,17 @@ class RatesView(views.APIView):
             destinations = self.get_ports(
                 cursor, query_params_dict["destination"])
 
+            date_from = query_params_dict["date_from"]
+            date_to = query_params_dict["date_to"]
+
             query = f"""
             SELECT day,
             CASE 
             WHEN COUNT(*) < 3 THEN null 
             ELSE CAST(AVG(price) as int) 
             END AS average_price FROM rates_price
-            WHERE orig_code_id IN ({origins}) AND dest_code_id IN ({destinations}) GROUP BY day
+            WHERE orig_code_id IN ({origins}) AND dest_code_id IN ({destinations}) AND day BETWEEN '{date_from}' AND '{date_to}'
+            GROUP BY day
             ORDER BY day ASC
             """
             cursor.execute(query)
